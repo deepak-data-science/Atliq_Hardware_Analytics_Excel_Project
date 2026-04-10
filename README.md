@@ -93,13 +93,13 @@ Analysis on new additions launched in 2021.Fiscal year of Atliq hardware starts 
 Analysis on new additions launched in 2021.Fiscal year of Atliq hardware starts from september and ends in next august month.
 
 ### Finance Analytics
-[P&L by Fiscal Year Report]()
+[P&L by Fiscal Year Report](https://github.com/deepak-data-science/Atliq_Hardware_Analytics_Excel_Project/blob/main/finance_analytics_reports/Finance%20Report%20by%20Fiscal%20Year.pdf)
 Showing consistent growth and well-maintained Net Sales,COGS and gross margins year over year.
 
-[GM % by Quarters]()
+[GM % by Quarters](https://github.com/deepak-data-science/Atliq_Hardware_Analytics_Excel_Project/blob/main/finance_analytics_reports/GM%20%20by%20Quarters.pdf)
 Provides quarterly insights into gross margin percentage by region, helping identify areas with the highest profitability.
 
-[P&L by Markets Report]()
+[P&L by Markets Report](https://github.com/deepak-data-science/Atliq_Hardware_Analytics_Excel_Project/blob/main/finance_analytics_reports/P%26L%20by%20Markets%20Report.pdf)
 Spotted that India has highest Net Sales,COGS and Gross Margin value whereas New Zealand has highest GM%.
 
 ---
