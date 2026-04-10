@@ -77,19 +77,19 @@ To design an end-to-end analytics solution that:
 ## 📊 Key Reports
 
 ### Sales Analytics
-[Top 10 Products Report]()
+[Top 10 Products Report](https://github.com/deepak-data-science/Atliq_Hardware_Analytics_Excel_Project/blob/main/sales_analytics_reports/Top%2010%20Products%20Report.pdf)
 List of top 10 products based on the percentage increase in their net sales from 2020 to 2021.
 
-[Division Level Report (204.5% Increase)]()
+[Division Level Report (204.5% Increase)](https://github.com/deepak-data-science/Atliq_Hardware_Analytics_Excel_Project/blob/main/sales_analytics_reports/Division%20Level%20Report.pdf)
 Highlighted a growth of 313.7 % in PC,84.4% in N & S,221.5% in P & A.
 
-[Top 5 & Bottom 5 Products]()
+[Top 5 & Bottom 5 Products](https://github.com/deepak-data-science/Atliq_Hardware_Analytics_Excel_Project/blob/main/sales_analytics_reports/Top%205%20%26%20Bottom%205%20Products.pdf)
 Listed the best and worst-performing products.
 
-[New Products by Fiscal Year]()
+[New Products by Fiscal Year](https://github.com/deepak-data-science/Atliq_Hardware_Analytics_Excel_Project/blob/main/sales_analytics_reports/New%20Products%20by%20Fiscal%20Year.pdf)
 Analysis on new additions launched in 2021.Fiscal year of Atliq hardware starts from september and ends in next august month.
 
-[Top 5 Countries]()
+[Top 5 Countries](https://github.com/deepak-data-science/Atliq_Hardware_Analytics_Excel_Project/blob/main/sales_analytics_reports/Top%205%20Countries.pdf)
 Analysis on new additions launched in 2021.Fiscal year of Atliq hardware starts from september and ends in next august month.
 
 ### Finance Analytics
