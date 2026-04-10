@@ -75,12 +75,32 @@ To design an end-to-end analytics solution that:
 ---
 
 ## 📊 Key Reports
-- Customer Performance Report  
-- Market Performance Report  
-- Market vs Target Analysis  
-- Top Products Analysis  
-- Division-Level Performance  
-- Profit & Loss (P&L) Reports  
+
+### Sales Analytics
+[Top 10 Products Report]()
+List of top 10 products based on the percentage increase in their net sales from 2020 to 2021.
+
+[Division Level Report (204.5% Increase)]()
+Highlighted a growth of 313.7 % in PC,84.4% in N & S,221.5% in P & A.
+
+[Top 5 & Bottom 5 Products]()
+Listed the best and worst-performing products.
+
+[New Products by Fiscal Year]()
+Analysis on new additions launched in 2021.Fiscal year of Atliq hardware starts from september and ends in next august month.
+
+[Top 5 Countries]()
+Analysis on new additions launched in 2021.Fiscal year of Atliq hardware starts from september and ends in next august month.
+
+### Finance Analytics
+[P&L by Fiscal Year Report]()
+Showing consistent growth and well-maintained Net Sales,COGS and gross margins year over year.
+
+[GM % by Quarters]()
+Provides quarterly insights into gross margin percentage by region, helping identify areas with the highest profitability.
+
+[P&L by Markets Report]()
+Spotted that India has highest Net Sales,COGS and Gross Margin value whereas New Zealand has highest GM%.
 
 ---
 
