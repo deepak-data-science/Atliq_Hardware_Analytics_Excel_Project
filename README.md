@@ -58,8 +58,8 @@ To design an end-to-end analytics solution that:
                       │
                       ▼
             ┌────────────────────┐
-            │   Reports &        │
-            │   Dashboards       │
+            │       Reports      │
+            │                    │
             └────────────────────┘
 
 
@@ -70,7 +70,7 @@ To design an end-to-end analytics solution that:
 2. Data Cleaning & Transformation using Power Query  
 3. Data Modeling with relationships in Power Pivot  
 4. KPI creation using DAX  
-5. Dashboard & Report generation  
+5. Report generation  
 
 ---
 
